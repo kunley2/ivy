@@ -181,7 +181,6 @@ def test_numpy_moveaxis(
         destination=destination,
     )
 
-
 # resize
 @st.composite
 def dtype_and_resize(draw):
